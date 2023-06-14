@@ -1,6 +1,8 @@
 kafka-assigner
 ==============
 
+
+
 [![CircleCI](https://circleci.com/gh/SiftScience/kafka-assigner.svg?style=svg)](https://circleci.com/gh/SiftScience/kafka-assigner)
 
 This is a rack-aware tool for assigning Kafka partitions to brokers that minimizes data movement. It also includes the ability to inspect the current live brokers in the cluster and the current partition assignment.
